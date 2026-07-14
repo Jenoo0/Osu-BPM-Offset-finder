@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/9Bma3fe" alt="osu! BPM & Offset Finder Banner" width="100%">
+  <img src="https://imgur.com/JEqQZKC" alt="osu! BPM & Offset Finder Banner" width="100%">
 </p>
 
 [![osu! Tool](https://img.shields.io/badge/osu!-Community_Tool-ff66aa?style=for-the-badge&logo=osu)](https://osu.ppy.sh/)
