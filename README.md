@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/osu!-Community%20Tool-ff66aa.svg" alt="osu! Community Tool">
-  <img src="https://img.shields.io/badge/Python-3.9+-3776AB.svg" alt="Python 3.9+">
+  <a href="https://osu.ppy.sh" target="_blank">
+    <img src="https://img.shields.io/badge/osu!-Community%20Tool-ff66aa.svg" alt="osu! Community Tool">
+  </a>
+  <a href="https://www.python.org/downloads/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.9+-3776AB.svg" alt="Python 3.9+">
+  </a>
   <a href="https://github.com/Jenoo0/osu-bpm-finder/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
   </a>
