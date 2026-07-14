@@ -1,4 +1,6 @@
-# 🎵 osu! BPM & Offset Finder
+<p align="center">
+  <img src="https://imgur.com/a/9Bma3fe" alt="osu! BPM & Offset Finder Banner" width="100%">
+</p>
 
 [![osu! Tool](https://img.shields.io/badge/osu!-Community_Tool-ff66aa?style=for-the-badge&logo=osu)](https://osu.ppy.sh/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
