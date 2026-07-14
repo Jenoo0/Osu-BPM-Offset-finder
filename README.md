@@ -9,7 +9,7 @@
   <a href="https://www.python.org/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3.9+-3776AB.svg" alt="Python 3.9+">
   </a>
-  <a href="https://github.com/Jenoo0/osu-bpm-finder/blob/main/LICENSE" target="_blank">
+  <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
   </a>
 </p>
