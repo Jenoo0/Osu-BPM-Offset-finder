@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/osu!-Community%20Tool-ff66aa.svg" alt="osu! Community Tool">
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB.svg" alt="Python 3.9+">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
+  <a href="https://github.com/Jenoo0/osu-bpm-finder/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
+  </a>
 </p>
 
 An elegant, fast, and interactive desktop tool for the osu! mapping community to find the perfect BPM and optimal starting offsets for any song. No more tedious guessing in the editor!
