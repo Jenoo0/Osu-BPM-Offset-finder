@@ -1,0 +1,13 @@
+# Python-Temporärdateien
+__pycache__/
+*.pyc
+
+# PyInstaller-Ordner (Die fertige App laden wir später als Release hoch)
+build/
+dist/
+*.spec
+
+# Virtuelle Umgebungen (falls vorhanden)
+.venv/
+venv/
+env/
